@@ -1,1 +1,1 @@
-console.log(`Halo, namaku unggul`);
+console.log(`Halo, namaku ush`);
